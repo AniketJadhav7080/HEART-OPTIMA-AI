@@ -1,4 +1,4 @@
-# Heart Disease Prediction using ECG Images
+# Heart Optima AI
 
 #### Abstract:
 This project aims to predict heart diseases using electrocardiogram (ECG) images through machine learning models. ECG signals are widely used for diagnosing various heart conditions. By leveraging machine learning techniques, we can automate the process of detecting abnormalities in ECG signals, which can assist healthcare professionals in making accurate diagnoses.
